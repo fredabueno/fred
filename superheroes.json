@@ -36,6 +36,18 @@
         "Teleportation",
         "Interdimensional travel"
       ]
-    }
+    },
+    {
+      "name" : "bunda mole",
+      "age" : 33,
+      "secretIdentity" : "carl kent",
+      "powers" : [
+        "Immortality",
+        "calor de bangu",
+        "Inferno",
+        "teletransporte",
+        "Interdimensional travel"
+      ]
+    }    
   ]
 }
